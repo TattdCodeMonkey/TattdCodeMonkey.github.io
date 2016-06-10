@@ -14,7 +14,7 @@ I was recently working on a project in elixir where I needed a way let other OTP
 
 The [getting started guide on elixir-lang.org](http://elixir-lang.org/getting-started/mix-otp/genevent.html), has a basic intro to using GenEvent. You start a manager, attach a handler and then send events to the manager using the `GenEvent.notify/2` or `GenEvent.sync_notify/2` functions.
 
-### GenEvent
+**GenEvent**
 
 First we need to define our event handler, for this example we will define a simple handler that logs every event as an info message.
 
@@ -47,7 +47,7 @@ iex(2)> GenEvent.add_handler(manager, MyEventHandler, self())
 
 Finally we send an event to the manager for our event handler to process.
 
-```elixir
+``` elixir
 iex(3)> GenEvent.notify(manager, {:my_event, "testing"})
 :ok
 iex(4)>
@@ -58,14 +58,15 @@ That gets us through the basics of generating and handling our own custom events
 
 Looking at the elixir docs I saw the `add_mon_handler/3` function. Since I'm writing this in elixir, it should be fault tolerant. And for my application this was a must.
 
-## Fault tolerance
+**Fault tolerance**
 
 Adding the event handler using the `add_mon_handler/3` function will link it to the calling process. If an error occurs when the event handler is processing an event, a message will be sent from the event manager to the process that call `add_mon_handler/3`.  
 
 I was curious how other people are using `GenEvent` with a monitored event handler. So I started searching github for `GenEvent.add_mon_handler`. I came across two common ways `add_mon_handler/3` is being used.
 
 **Bare bones GenServer**
-```elixir
+
+``` elixir
 defmodule MyEventHandlerWatcher do
 
   def start_link(manager) do
