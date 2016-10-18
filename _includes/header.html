@@ -1,4 +1,6 @@
-
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 <div class="header">
     <h1>{{ site.name }}</h1>
     <ul>

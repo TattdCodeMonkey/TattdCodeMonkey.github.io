@@ -23,3 +23,6 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 highlighter: rouge
+
+# Google services
+google_analytics: UA-85970601-1
