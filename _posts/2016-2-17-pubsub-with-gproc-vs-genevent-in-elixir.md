@@ -17,6 +17,7 @@ The library [gproc](https://github.com/uwiger/gproc) was recently recommended to
 > An interesting application of gproc is building publish/subscribe patterns.
 >
 > Example:
+
 ```erlang
 subscribe(EventType) ->
      %% Gproc notation: {p, l, Name} means {(p)roperty, (l)ocal, Name}
