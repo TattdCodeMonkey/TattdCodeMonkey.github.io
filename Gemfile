@@ -1,3 +1,2 @@
 source 'https://rubygems.org'
-gem 'RedCloth'
-gem 'jekyll'
+gem 'github-pages', group: :jekyll_plugins
