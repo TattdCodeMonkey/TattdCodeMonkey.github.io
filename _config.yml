@@ -7,7 +7,7 @@ permalink: /blog/:year/:i_month/:i_day/:title
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "vendor/"]
 
 
 # Sass
