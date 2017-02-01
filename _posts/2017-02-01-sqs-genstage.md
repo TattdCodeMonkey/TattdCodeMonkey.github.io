@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ??
-date: 2017-1-XX
+title: Writing a GenStage producer for AWS SQS
+date: 2017-2-01
 categories:
   - programming
 tags:
@@ -98,7 +98,7 @@ Now we need to update the state when we receive demand.
 ```elixir
 def handle_demand(incoming_demand, state) do
   new_demand = state.demand + incoming_demand
-  {:noreply, messages, %{state| demand: new_demand}}
+  {:noreply, [], %{state| demand: new_demand}}
 end
 ```
 
@@ -110,7 +110,7 @@ def handle_demand(incoming_demand, state) do
 
   Process.send(self(), :get_messages, [])
 
-  {:noreply, messages, %{state| demand: new_demand}}
+  {:noreply, [], %{state| demand: new_demand}}
 end
 ```
 
@@ -207,16 +207,20 @@ def handle_demand(incoming_demand, %{demand: 0} = state) do
 
   Process.send(self(), :get_messages, [])
 
-  {:noreply, messages, %{state| demand: new_demand}}
+  {:noreply, [], %{state| demand: new_demand}}
 end
-def handle_demand(incoming_demand, %{demand: 0} = state) do
+def handle_demand(incoming_demand, state) do
   new_demand = state.demand + incoming_demand
 
-  {:noreply, messages, %{state| demand: new_demand}}
+  {:noreply, [], %{state| demand: new_demand}}
 end
 ```
 
-And thats pretty much it for a basic implementation. There are several things we would want to improve for production. Refactor things into smaller functions, handle errors etc.
+And thats pretty much it for a basic implementation. There are several things we would want to improve for production.
+
+- Refactor processing into smaller testable functions
+- Handle errors from AWS
+- Implement locking of messages across producers/nodes/instances
 
 ```elixir
 defmodule SQSProducer do
@@ -240,12 +244,12 @@ defmodule SQSProducer do
 
     Process.send(self(), :get_messages, [])
 
-    {:noreply, messages, %{state| demand: new_demand}}
+    {:noreply, [], %{state| demand: new_demand}}
   end
-  def handle_demand(incoming_demand, %{demand: 0} = state) do
+  def handle_demand(incoming_demand, state) do
     new_demand = state.demand + incoming_demand
 
-    {:noreply, messages, %{state| demand: new_demand}}
+    {:noreply, [], %{state| demand: new_demand}}
   end
 
   def handle_info(:get_messages, state) do
