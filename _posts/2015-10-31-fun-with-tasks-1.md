@@ -2,6 +2,7 @@
 layout: post
 title: Fun with Tasks
 date: 2015-10-31
+comments: true
 categories:
   - programming
 tags:

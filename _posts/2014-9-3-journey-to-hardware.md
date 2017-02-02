@@ -2,6 +2,7 @@
 layout: post
 title: Journey to Hardware
 date: 2014-9-3
+comments: true
 categories:
   - programming
 tags:

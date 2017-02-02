@@ -2,6 +2,7 @@
 layout: post
 title: elixir tastes good
 date: 2015-2-5
+comments: true
 categories:
   - programming
 tags:

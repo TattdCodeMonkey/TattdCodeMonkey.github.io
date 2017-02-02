@@ -2,6 +2,7 @@
 layout: post
 title: Event Handling in elixir
 date: 2015-4-24
+comments: true
 categories:
   - programming
 tags:

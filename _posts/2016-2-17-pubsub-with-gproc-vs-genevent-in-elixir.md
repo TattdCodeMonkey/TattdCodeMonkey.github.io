@@ -2,6 +2,7 @@
 layout: post
 title: Pub/sub with gproc vs GenEvent in elixir
 date: 2016-2-17
+comments: true
 categories:
   - programming
 tags:

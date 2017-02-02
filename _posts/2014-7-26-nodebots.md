@@ -2,6 +2,7 @@
 layout: post
 title: Nodebots!
 date: 2014-7-26
+comments: true
 categories:
   - programming
 tags:

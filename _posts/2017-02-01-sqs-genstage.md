@@ -2,6 +2,7 @@
 layout: post
 title: Writing a GenStage producer for AWS SQS
 date: 2017-2-01
+comments: true
 categories:
   - programming
 tags:
