@@ -29,7 +29,9 @@ end
 ```
 
 - `ex_aws`: we'll use this to interact with AWS and specifically the SQS queue
-- `poison`, `hackney` & `sweet_xml`: These are optional dependencies for `ex_aws` that make our lives easier
+- `hackney`: Used by ExAws to make http requests to AWS
+- `poison`: Needed by ExAWS for JSON decoding/encoding
+- `sweet_xml`: SQS API responses are in XML 😦, but with this installed ExAws will handle parsing responses into Maps
 - `gen_stage`: the thing we are here for 😃
 
 You will also need to configure `ex_aws` and you should look at the [Getting Started section](https://hexdocs.pm/ex_aws/ExAws.html#module-getting-started) of the `ex_aws` docs.
