@@ -285,3 +285,5 @@ defmodule SQSProducer do
   end
 end
 ```
+
+By request I created an example repo here: https://github.com/TattdCodeMonkey/genstage_sqs_example with this code as well as an OTP app and bare bones consumer I used to test the code in this post.
