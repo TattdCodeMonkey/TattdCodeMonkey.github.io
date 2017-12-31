@@ -1,4 +1,5 @@
 ---
+title: About Me - Rodney Norris
 layout: about
 ---
 
