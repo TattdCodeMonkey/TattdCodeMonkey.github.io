@@ -6,42 +6,41 @@ layout: podcasts
 # Favorites, listen to every episode
 
 - [Waking Up with Sam Harris](https://www.samharris.org/podcast)
-- [EconTalk](http://www.econtalk.org/)
-- [The Bike Shed](http://bikeshed.fm/)
-- [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
-- [.Net Rocks!](https://www.dotnetrocks.com/) [GeekOuts Only Feed](http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master&tags=Geek%20Out)
+- [Now What? with Arian Foster](https://itunes.apple.com/us/podcast/now-what-with-arian-foster/id1291152192?mt=2)
 - [The Bike Shed](http://bikeshed.fm/)
 - [Still Untitled: The Adam Savage Project](http://www.tested.com/still-untitled-the-adam-savage-project/)
-- [The Duke and Duchess Podcast](https://www.thedukeandduchesspodcast.com/)
+- [EconTalk](http://www.econtalk.org/)
+- [Dan Carlin's Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
+- [.Net Rocks!](https://www.dotnetrocks.com/) [GeekOuts Only Feed](http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master&tags=Geek%20Out)
 
 ---
 
 # Listen to most episodes, but will skip occasionally
 
 - [99% Invisible](https://99percentinvisible.org/)
-- [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain)
 - [Common Sense with Dan Carlin](http://www.dancarlin.com/common-sense-home-landing-page/)
 - [The Kevin Rose Show](https://www.kevinrose.com/)
-- [Now What? with Arian Foster](https://itunes.apple.com/us/podcast/now-what-with-arian-foster/id1291152192?mt=2)
 - [Pod Save the World](https://crooked.com/podcast-series/pod-save-the-world/)
 - [Secular Buddhism](https://secularbuddhism.com/podcast/)
 - [NodeUp](http://nodeup.com/)
-- [Very Bad Wizards](https://verybadwizards.fireside.fm/)
 
 ---
 
 # Occasionally listen to an episode
 
 - [Audio Dharma](http://www.audiodharma.org/)
+- [The Duke and Duchess Podcast](https://www.thedukeandduchesspodcast.com/)
 - [The Edge: A Star Trek Discovery Podcast](http://trek.fm/the-edge/)
 - [Freakonomics Radio](http://freakonomics.com/archive/)
 - [Full Of Sith | Star Wars News, Discussions and
   Interviews](http://fullofsith.com/)
+- [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain)
 - [Jocko Podcast](http://jockopodcast.com/)
 - [The Joe Rogan Experience](http://podcasts.joerogan.net/)
 - [The Nerdist](https://nerdist.com/podcasts/nerdist-podcast-channel/)
 - [Pod Save America](https://crooked.com/podcast-series/pod-save-america/)
 - [This is Only a Test](http://www.tested.com/podcast/this-is-only-a-test/)
+- [Very Bad Wizards](https://verybadwizards.fireside.fm/)
 
 ---
 
