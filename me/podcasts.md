@@ -18,6 +18,7 @@ layout: podcasts
 # Listen to most episodes, but will skip occasionally
 
 - [99% Invisible](https://99percentinvisible.org/)
+- [Armchair Expert with Dax Shepard](https://armchairexpertpod.com/)
 - [Common Sense with Dan Carlin](http://www.dancarlin.com/common-sense-home-landing-page/)
 - [The Kevin Rose Show](https://www.kevinrose.com/)
 - [Pod Save the World](https://crooked.com/podcast-series/pod-save-the-world/)
@@ -49,6 +50,7 @@ layout: podcasts
 - [.Net Rocks!](https://www.dotnetrocks.com/) [GeekOuts Only Feed](http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master&tags=Geek%20Out)
 - [99% Invisible](https://99percentinvisible.org/)
 - [The AskHistorians Podcast](https://askhistorians.libsyn.com/)
+- [Armchair Expert with Dax Shepard](https://armchairexpertpod.com/)
 - [Audio Dharma](http://www.audiodharma.org/)
 - [The Bike Shed](http://bikeshed.fm/)
 - [Common Sense with Dan Carlin](http://www.dancarlin.com/common-sense-home-landing-page/)
