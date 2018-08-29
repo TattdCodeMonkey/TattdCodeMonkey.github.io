@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Waking Up with Sam Harris",
+        "url": "https://www.samharris.org/podcast",
+        "tier": 1
+    },
+    {
+        "name": "Now What? with Arian Foster",
+        "url": "https://itunes.apple.com/us/podcast/now-what-with-arian-foster/id1291152192?mt=2",
+        "tier": 1
+    },
+    {
+        "name": "The Bike Shed",
+        "url": "http://bikeshed.fm/",
+        "tier": 1
+    },
+    {
+        "name": "Still Untitled: The Adam Savage Project",
+        "url": "http://www.tested.com/still-untitled-the-adam-savage-project/",
+        "tier": 1
+    },
+    {
+        "name": "EconTalk",
+        "url": "http://www.econtalk.org/",
+        "tier": 1
+    },
+    {
+        "name": "Dan Carlin's Hardcore History",
+        "url": "http://www.dancarlin.com/hardcore-history-series/",
+        "tier": 0
+    },
+    {
+        "name": ".Net Rocks! (GeekOuts Only)",
+        "url": "http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master&tags=Geek%20Out",
+        "tier": 0
+    },
+    {
+        "name": "99% Invisible",
+        "url": "https://99percentinvisible.org/",
+        "tier": 3
+    },
+    {
+        "name": "Common Sense with Dan Carlin",
+        "url": "http://www.dancarlin.com/common-sense-home-landing-page/)",
+        "tier": 2
+    },
+    {
+        "name": "Complete Developer Podcast",
+        "url": "https://completedeveloperpodcast.com/",
+        "tier": 3
+    },
+    {
+        "name": "The Kevin Rose Show",
+        "url": "https://www.kevinrose.com/",
+        "tier": 2
+    },
+    {
+        "name": "Pod Save the World",
+        "url": "https://crooked.com/podcast-series/pod-save-the-world/",
+        "tier": 2
+    },
+    {
+        "name": "Revisionist History",
+        "url": "http://revisionisthistory.com/",
+        "tier": 4
+    },
+    {
+        "name": "Secular Buddhism",
+        "url": "https://secularbuddhism.com/podcast/",
+        "tier": 4
+    },
+    {
+        "name": "NodeUp",
+        "url": "http://nodeup.com/",
+        "tier": 2
+    },
+    {
+        "name": "a16z - podcast",
+        "url": "https://a16z.com/podcasts/",
+        "tier": 3
+    },
+    {
+        "name": "The AskHistorians Podcast",
+        "url": "https://askhistorians.libsyn.com/",
+        "tier": 4
+    },
+    {
+        "name": "Armchair Expert with Dax Shepard",
+        "url": "https://armchairexpertpod.com/",
+        "tier": 4
+    },
+    {
+        "name": "Audio Dharma",
+        "url": "http://www.audiodharma.org/",
+        "tier": 3
+    },
+    {
+        "name": "The Duke and Duchess Podcast",
+        "url": "https://www.thedukeandduchesspodcast.com/",
+        "tier": 4
+    },
+    {
+        "name": "The Edge: A Star Trek Discovery Podcast",
+        "url": "http://trek.fm/the-edge/",
+        "tier": 3
+    },
+    {
+        "name": "Elixir Outlaws",
+        "url": "https://elixiroutlaws.com/",
+        "tier": 3
+    },
+    {
+        "name": "Freakonomics Radio",
+        "url": "http://freakonomics.com/archive/",
+        "tier": 4
+    },
+    {
+        "name": "Full Of Sith - Star Wars News, Discussions and Interviews",
+        "url": "http://fullofsith.com/",
+        "tier": 4
+    },
+    {
+        "name": "Hidden Brain",
+        "url": "https://www.npr.org/series/423302056/hidden-brain",
+        "tier": 4
+    },
+    {
+        "name": "ID10T with Chris Hardwick",
+        "url": "https://art19.com/shows/id10t",
+        "tier": 3
+    },
+    {
+        "name": "The Joe Rogan Experience",
+        "url": "http://podcasts.joerogan.net/",
+        "tier": 3
+    },
+    {
+        "name": "Pod Save America",
+        "url": "https://crooked.com/podcast-series/pod-save-america/",
+        "tier": 3
+    },
+    {
+        "name": "This is Only a Test",
+        "url": "http://www.tested.com/podcast/this-is-only-a-test/",
+        "tier": 4
+    },
+    {
+        "name": "The Tim Ferris Show",
+        "url": "https://tim.blog/podcast/",
+        "tier": 3
+    },
+    {
+        "name": "Very Bad Wizards",
+        "url": "https://verybadwizards.fireside.fm/",
+        "tier": 4
+    },
+    {
+        "name": "Shop Talk Show",
+        "url": "https://shoptalkshow.com/",
+        "tier": 3
+    },
+    {
+        "name": "The Wilderness",
+        "url": "https://crooked.com/podcast-series/thewilderness/",
+        "tier": 0
+    }
+]
