@@ -12,7 +12,7 @@
     {
         "name": "The Bike Shed",
         "url": "http://bikeshed.fm/",
-        "tier": 1
+        "tier": 2
     },
     {
         "name": "Still Untitled: The Adam Savage Project",
@@ -57,7 +57,7 @@
     {
         "name": "Pod Save the World",
         "url": "https://crooked.com/podcast-series/pod-save-the-world/",
-        "tier": 2
+        "tier": 3
     },
     {
         "name": "Revisionist History",
@@ -72,7 +72,7 @@
     {
         "name": "NodeUp",
         "url": "http://nodeup.com/",
-        "tier": 2
+        "tier": 3
     },
     {
         "name": "a16z - podcast",
@@ -102,12 +102,12 @@
     {
         "name": "The Edge: A Star Trek Discovery Podcast",
         "url": "http://trek.fm/the-edge/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "Elixir Outlaws",
         "url": "https://elixiroutlaws.com/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "Freakonomics Radio",
@@ -127,7 +127,7 @@
     {
         "name": "ID10T with Chris Hardwick",
         "url": "https://art19.com/shows/id10t",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "The Joe Rogan Experience",
@@ -163,5 +163,20 @@
         "name": "The Wilderness",
         "url": "https://crooked.com/podcast-series/thewilderness/",
         "tier": 0
+    },
+    {
+      "name": "Developer On Fire",
+      "url": "https://developeronfire.com/",
+      "tier": 3
+    },
+    {
+      "name": "The Yak Shave",
+      "url": "http://yakshave.fm/",
+      "tier": 1
+    },
+    {
+      "name": "Henry & Heidi",
+      "url": "http://henryandheidi.libsyn.com/podcast",
+      "tier": 2
     }
 ]

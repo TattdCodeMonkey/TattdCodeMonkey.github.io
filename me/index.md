@@ -6,13 +6,11 @@ layout: about
 {% include wrapimage.html url="/assets/img/rodney.norris_about.jpeg" %}
 
 Polyglot Software engineer
-(elixir, javascript, python, C, C#)
+(javascript, golang, python, elixir, C#)
 
 Father and Husband
 
 Mountain Biker
-
-Wannabe Maker
 
 Coffee Snob
 
