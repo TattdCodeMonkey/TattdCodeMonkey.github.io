@@ -1,13 +1,13 @@
 [
     {
-        "name": "Waking Up with Sam Harris",
+        "name": "Making Sense with Sam Harris",
         "url": "https://www.samharris.org/podcast",
         "tier": 1
     },
     {
         "name": "Now What? with Arian Foster",
         "url": "https://itunes.apple.com/us/podcast/now-what-with-arian-foster/id1291152192?mt=2",
-        "tier": 1
+        "tier": 3
     },
     {
         "name": "The Bike Shed",
@@ -37,17 +37,17 @@
     {
         "name": "99% Invisible",
         "url": "https://99percentinvisible.org/",
-        "tier": 3
+        "tier": 2
     },
     {
         "name": "Common Sense with Dan Carlin",
         "url": "http://www.dancarlin.com/common-sense-home-landing-page/)",
-        "tier": 2
+        "tier": 3
     },
     {
         "name": "Complete Developer Podcast",
         "url": "https://completedeveloperpodcast.com/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "The Kevin Rose Show",
@@ -57,7 +57,7 @@
     {
         "name": "Pod Save the World",
         "url": "https://crooked.com/podcast-series/pod-save-the-world/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "Revisionist History",
@@ -72,12 +72,12 @@
     {
         "name": "NodeUp",
         "url": "http://nodeup.com/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "a16z - podcast",
         "url": "https://a16z.com/podcasts/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "The AskHistorians Podcast",
@@ -87,7 +87,7 @@
     {
         "name": "Armchair Expert with Dax Shepard",
         "url": "https://armchairexpertpod.com/",
-        "tier": 4
+        "tier": 3
     },
     {
         "name": "Audio Dharma",
@@ -132,12 +132,12 @@
     {
         "name": "The Joe Rogan Experience",
         "url": "http://podcasts.joerogan.net/",
-        "tier": 3
+        "tier": 2
     },
     {
         "name": "Pod Save America",
         "url": "https://crooked.com/podcast-series/pod-save-america/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "This is Only a Test",
@@ -147,7 +147,7 @@
     {
         "name": "The Tim Ferris Show",
         "url": "https://tim.blog/podcast/",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "Very Bad Wizards",
@@ -167,7 +167,7 @@
     {
       "name": "Developer On Fire",
       "url": "https://developeronfire.com/",
-      "tier": 3
+      "tier": 4
     },
     {
       "name": "The Yak Shave",
@@ -177,6 +177,11 @@
     {
       "name": "Henry & Heidi",
       "url": "http://henryandheidi.libsyn.com/podcast",
+      "tier": 2
+    },
+    {
+      "name": "Liftoff",
+      "url":"https://www.relay.fm/liftoff",
       "tier": 2
     }
 ]
