@@ -1,43 +1,57 @@
 [
     {
-        "name": "Making Sense with Sam Harris",
-        "url": "https://www.samharris.org/podcast",
-        "tier": 1
-    },
-    {
-        "name": "Now What? with Arian Foster",
-        "url": "https://itunes.apple.com/us/podcast/now-what-with-arian-foster/id1291152192?mt=2",
-        "tier": 3
-    },
-    {
-        "name": "The Bike Shed",
-        "url": "http://bikeshed.fm/",
-        "tier": 2
-    },
-    {
         "name": "Still Untitled: The Adam Savage Project",
         "url": "http://www.tested.com/still-untitled-the-adam-savage-project/",
+        "logo": "http://files.tested.com/static/adam_podcast_itunes_logo.jpg",
         "tier": 1
     },
     {
         "name": "EconTalk",
         "url": "http://www.econtalk.org/",
+        "logo": "http://files.libertyfund.org/econtalk/EconTalkCDcover1400.jpg",
         "tier": 1
     },
     {
-        "name": "Dan Carlin's Hardcore History",
-        "url": "http://www.dancarlin.com/hardcore-history-series/",
-        "tier": 0
-    },
-    {
-        "name": ".Net Rocks! (GeekOuts Only)",
-        "url": "http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master&tags=Geek%20Out",
-        "tier": 0
-    },
+        "name": "Making Sense with Sam Harris",
+        "url": "https://www.samharris.org/podcast",
+        "logo": "http://static.libsyn.com/p/assets/0/9/7/e/097e1e1107a7009a/MAKING_SENSE_MASTER.png",
+        "tier": 3        
+    },    
     {
         "name": "99% Invisible",
         "url": "https://99percentinvisible.org/",
+        "logo": "https://f.prxu.org/96/images/a2dfa88e-cbe9-4a41-b1a6-72694e60e7fd/99-1400.png",
         "tier": 2
+    },
+    {
+        "name": "The Kevin Rose Show",
+        "url": "https://www.kevinrose.com/",
+        "logo": "https://cdn.simplecast.com/images/5ee768af-4972-45d3-bb94-168aee0a964b/6dd6009f-7cb4-4f7a-a462-7e84260e979a/3000x3000/1509037992artwork.jpg",
+        "tier": 2
+    },
+    {
+        "name": "Zen Founder",
+        "url": "http://zenfounder.com/",
+        "logo": "https://zenfounder.com/wp-content/uploads/powerpress/ZenFounder_Logo_2LineWhiteOnRed.png",
+        "tier": 2
+    },
+    {
+        "name": "The Joe Rogan Experience",
+        "url": "http://podcasts.joerogan.net/",
+        "logo": "http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg",
+        "tier": 2
+    },
+    {
+        "name": "Brad & Will Made a Tech Pod.",
+        "url": "http://techpod.content.town/",
+        "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
+        "tier": 3
+    },
+    {
+      "name": "The Yak Shave",
+      "url": "http://yakshave.fm/",
+      "logo": "https://media.simplecast.com/podcast/image/6759/1532554115-artwork.jpg",
+      "tier": 3
     },
     {
         "name": "Common Sense with Dan Carlin",
@@ -45,54 +59,70 @@
         "tier": 3
     },
     {
+      "name": "Henry & Heidi",
+      "url": "http://henryandheidi.libsyn.com/podcast",
+      "tier": 3
+    },  
+    {
+        "name": "Audio Dharma",
+        "url": "http://www.audiodharma.org/",
+        "logo": "https://media.audiodharma.org/images/audio_dharma_itunes.jpg",
+        "tier": 3
+    },
+    {
+        "name": "Armchair Expert with Dax Shepard",
+        "url": "https://armchairexpertpod.com/",
+        "tier": 4
+    },
+    {
+        "name": "Shop Talk Show",
+        "url": "https://shoptalkshow.com/",
+        "tier": 4
+    },
+    {
+        "name": "Now What? with Arian Foster",
+        "url": "https://itunes.apple.com/us/podcast/now-what-with-arian-foster/id1291152192?mt=2",
+        "tier": 4
+    },
+    {
+        "name": "The Bike Shed",
+        "url": "http://bikeshed.fm/",
+        "tier": 4
+    },
+    {
         "name": "Complete Developer Podcast",
         "url": "https://completedeveloperpodcast.com/",
         "tier": 4
     },
     {
-        "name": "The Kevin Rose Show",
-        "url": "https://www.kevinrose.com/",
-        "tier": 2
-    },
-    {
-        "name": "Pod Save the World",
-        "url": "https://crooked.com/podcast-series/pod-save-the-world/",
+        "name": "Pod Save America",
+        "url": "https://crooked.com/podcast-series/pod-save-america/",
         "tier": 4
     },
     {
-        "name": "Revisionist History",
-        "url": "http://revisionisthistory.com/",
+        "name": "This is Only a Test",
+        "url": "http://www.tested.com/podcast/this-is-only-a-test/",
         "tier": 4
     },
     {
-        "name": "Secular Buddhism",
-        "url": "https://secularbuddhism.com/podcast/",
+        "name": "The Tim Ferris Show",
+        "url": "https://tim.blog/podcast/",
         "tier": 4
     },
     {
-        "name": "NodeUp",
-        "url": "http://nodeup.com/",
+        "name": "Very Bad Wizards",
+        "url": "https://verybadwizards.fireside.fm/",
         "tier": 4
+    },  
+    {
+      "name": "Developer On Fire",
+      "url": "https://developeronfire.com/",
+      "tier": 4
     },
     {
-        "name": "a16z - podcast",
-        "url": "https://a16z.com/podcasts/",
-        "tier": 4
-    },
-    {
-        "name": "The AskHistorians Podcast",
-        "url": "https://askhistorians.libsyn.com/",
-        "tier": 4
-    },
-    {
-        "name": "Armchair Expert with Dax Shepard",
-        "url": "https://armchairexpertpod.com/",
-        "tier": 3
-    },
-    {
-        "name": "Audio Dharma",
-        "url": "http://www.audiodharma.org/",
-        "tier": 3
+      "name": "Liftoff",
+      "url":"https://www.relay.fm/liftoff",
+      "tier": 4
     },
     {
         "name": "The Duke and Duchess Podcast",
@@ -130,58 +160,60 @@
         "tier": 4
     },
     {
-        "name": "The Joe Rogan Experience",
-        "url": "http://podcasts.joerogan.net/",
-        "tier": 2
-    },
-    {
-        "name": "Pod Save America",
-        "url": "https://crooked.com/podcast-series/pod-save-america/",
+        "name": "Pod Save the World",
+        "url": "https://crooked.com/podcast-series/pod-save-the-world/",
         "tier": 4
     },
     {
-        "name": "This is Only a Test",
-        "url": "http://www.tested.com/podcast/this-is-only-a-test/",
+        "name": "Revisionist History",
+        "url": "http://revisionisthistory.com/",
         "tier": 4
     },
     {
-        "name": "The Tim Ferris Show",
-        "url": "https://tim.blog/podcast/",
+        "name": "Secular Buddhism",
+        "url": "https://secularbuddhism.com/podcast/",
         "tier": 4
     },
     {
-        "name": "Very Bad Wizards",
-        "url": "https://verybadwizards.fireside.fm/",
+        "name": "NodeUp",
+        "url": "http://nodeup.com/",
         "tier": 4
     },
     {
-        "name": "Shop Talk Show",
-        "url": "https://shoptalkshow.com/",
-        "tier": 3
+        "name": "a16z - podcast",
+        "url": "https://a16z.com/podcasts/",
+        "tier": 4
     },
     {
-        "name": "The Wilderness",
-        "url": "https://crooked.com/podcast-series/thewilderness/",
+        "name": "The AskHistorians Podcast",
+        "url": "https://askhistorians.libsyn.com/",
+        "tier": 4
+    },
+    {
+        "name": "Dan Carlin's Hardcore History",
+        "url": "http://www.dancarlin.com/hardcore-history-series/",
         "tier": 0
     },
     {
-      "name": "Developer On Fire",
-      "url": "https://developeronfire.com/",
-      "tier": 4
+        "name": ".Net Rocks! (GeekOuts Only)",
+        "url": "http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master&tags=Geek%20Out",
+        "tier": 0
     },
     {
-      "name": "The Yak Shave",
-      "url": "http://yakshave.fm/",
-      "tier": 1
+      "name": "Dolly Parton's America",
+      "url":"https://www.npr.org/podcasts/765024913/dolly-parton-s-america",
+      "logo": "https://media.wnyc.org/i/1400/1400/l/80/2019/09/DollyPartonsAmerica_FinalSquare.jpg",
+      "tier": 0
     },
     {
-      "name": "Henry & Heidi",
-      "url": "http://henryandheidi.libsyn.com/podcast",
-      "tier": 2
+      "name": "The Wilderness",
+      "url": "https://crooked.com/podcast-series/thewilderness/",
+      "tier": 0
     },
     {
-      "name": "Liftoff",
-      "url":"https://www.relay.fm/liftoff",
-      "tier": 2
+        "name": "ForMandalore",
+        "url": "https://www.facebook.com/formandalorepodcast/?ref=nf&hc_ref=ARTVcyn2q2fSSaXqOmak3WlRMC2tKHspRXX5f7O805lrDRqWWB3EdSL80dbLpiKuezw",
+        "logo": "http://i1.sndcdn.com/avatars-000724456000-5ey00o-original.jpg",
+        "tier": 0
     }
 ]

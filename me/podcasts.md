@@ -12,7 +12,11 @@ I listen to a lot of podcasts. But I also subscribe to a ton of them. I can only
 
 {% for podcast in site.data.podcasts %}
 {% if podcast.tier == 1 %}
+{% if podcast.logo %}
+<a href="{{podcast.url}}"><img src="{{podcast.logo}}" alt="{{podcast.name}}" width="250" /></a>
+{% else %}
 - [{{podcast.name}}]({{podcast.url}})
+{% endif %}
 {% endif%}
 {% endfor %}
 
@@ -22,7 +26,11 @@ I listen to a lot of podcasts. But I also subscribe to a ton of them. I can only
 
 {% for podcast in sorted_podcasts %}
 {% if podcast.tier == 0 %}
+{% if podcast.logo %}
+<a href="{{podcast.url}}"><img src="{{podcast.logo}}" alt="{{podcast.name}}" width="250" /></a>
+{% else %}
 - [{{podcast.name}}]({{podcast.url}})
+{% endif %}
 {% endif%}
 {% endfor %}
 
@@ -30,7 +38,11 @@ I listen to a lot of podcasts. But I also subscribe to a ton of them. I can only
 
 {% for podcast in sorted_podcasts %}
 {% if podcast.tier == 2 %}
+{% if podcast.logo %}
+<a href="{{podcast.url}}"><img src="{{podcast.logo}}" alt="{{podcast.name}}" width="250" /></a>
+{% else %}
 - [{{podcast.name}}]({{podcast.url}})
+{% endif %}
 {% endif%}
 {% endfor %}
 
@@ -40,8 +52,12 @@ I listen to a lot of podcasts. But I also subscribe to a ton of them. I can only
 
 {% for podcast in sorted_podcasts %}
 {% if podcast.tier == 3 %}
+{% if podcast.logo %}
+<a href="{{podcast.url}}"><img src="{{podcast.logo}}" alt="{{podcast.name}}" width="250" /></a>
+{% else %}
 - [{{podcast.name}}]({{podcast.url}})
-{% endif%}
+{% endif %}
+{% endif %}
 {% endfor %}
 
 ---
@@ -50,6 +66,9 @@ I listen to a lot of podcasts. But I also subscribe to a ton of them. I can only
 
 {% for podcast in sorted_podcasts %}
 {% if podcast.tier == 4 %}
+{% if podcast.logo %}
+<img src="{{podcast.logo}}" alt="" width="250" />
+{% endif %}
 - [{{podcast.name}}]({{podcast.url}})
 {% endif%}
 {% endfor %}
@@ -59,6 +78,10 @@ I listen to a lot of podcasts. But I also subscribe to a ton of them. I can only
 # Full List
 
 {% for podcast in sorted_podcasts %}
+{% if podcast.logo %}
+<a href="{{podcast.url}}"><img src="{{podcast.logo}}" alt="{{podcast.name}}" width="250" /></a>
+{% else %}
 - [{{podcast.name}}]({{podcast.url}})
+{% endif %}
 {% endfor %}
 
