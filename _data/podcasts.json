@@ -17,13 +17,7 @@
         "logo": "http://i1.sndcdn.com/avatars-000607513431-dg9ub7-original.jpg",
         "tier": 1
     },
-    {
-        "name": "Making Sense with Sam Harris",
-        "url": "https://www.samharris.org/podcast",
-        "logo": "http://static.libsyn.com/p/assets/0/9/7/e/097e1e1107a7009a/MAKING_SENSE_MASTER.png",
-        "tier": 3        
-    },    
-    {
+   {
         "name": "99% Invisible",
         "url": "https://99percentinvisible.org/",
         "logo": "https://f.prxu.org/96/images/a2dfa88e-cbe9-4a41-b1a6-72694e60e7fd/99-1400.png",
@@ -39,25 +33,25 @@
         "name": "Zen Founder",
         "url": "http://zenfounder.com/",
         "logo": "https://zenfounder.com/wp-content/uploads/powerpress/ZenFounder_Logo_2LineWhiteOnRed.png",
-        "tier": 2
+        "tier": 3
     },
     {
         "name": "The Joe Rogan Experience",
         "url": "http://podcasts.joerogan.net/",
         "logo": "http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg",
-        "tier": 2
+        "tier": 3
     },
     {
         "name": "Weird Trick Mafia",
         "url": "https://weirdtrickmafia.fm",
         "logo": "https://weirdtrickmafia.fm/img/podcast_logo.png",
-        "tier": 2
+        "tier": 4
     },
     {
         "name": "Brad & Will Made a Tech Pod.",
         "url": "http://techpod.content.town/",
         "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
-        "tier": 3
+        "tier": 2
     },
     {
       "name": "The Yak Shave",
@@ -99,7 +93,7 @@
     {
         "name": "The Bike Shed",
         "url": "http://bikeshed.fm/",
-        "tier": 4
+        "tier": 2
     },
     {
         "name": "Complete Developer Podcast",
@@ -228,5 +222,11 @@
         "url": "https://www.facebook.com/formandalorepodcast/?ref=nf&hc_ref=ARTVcyn2q2fSSaXqOmak3WlRMC2tKHspRXX5f7O805lrDRqWWB3EdSL80dbLpiKuezw",
         "logo": "http://i1.sndcdn.com/avatars-000724456000-5ey00o-original.jpg",
         "tier": 0
+    },
+    {
+      "name": "Beyond Victory",
+      "url": "https://beyondvictory.podigee.io/",
+      "logo": "https://cdn.podigee.com/uploads/u3524/67e45292-c8ec-485d-ac22-b8ec06497a61.jpg",
+      "tier": 3
     }
 ]
