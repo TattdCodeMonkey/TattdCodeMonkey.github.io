@@ -3,7 +3,7 @@
         "name": "Still Untitled: The Adam Savage Project",
         "url": "http://www.tested.com/still-untitled-the-adam-savage-project/",
         "logo": "http://files.tested.com/static/adam_podcast_itunes_logo.jpg",
-        "tier": 1
+        "tier": 0
     },
     {
         "name": "EconTalk",
@@ -16,24 +16,54 @@
         "url": "https://www.smodcast.com/channel/fatmanbeyond",
         "logo": "http://i1.sndcdn.com/avatars-000607513431-dg9ub7-original.jpg",
         "tier": 1
+    },    
+    {
+        "name": "The Bike Shed",
+        "url": "http://bikeshed.fm/",
+        "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg?v=2",
+        "tier": 1
     },
-   {
-        "name": "99% Invisible",
-        "url": "https://99percentinvisible.org/",
-        "logo": "https://f.prxu.org/96/images/a2dfa88e-cbe9-4a41-b1a6-72694e60e7fd/99-1400.png",
+    {
+        "name": "WTF1 Podcast",
+        "url": "https://wtf1.com/",
+        "logo": "https://overcast.fm/art/full/811453?195",
+        "tier": 1
+    },
+    {
+        "name": "StaffEng Podcast",
+        "url": "https://podcast.staffeng.com/",
+        "logo": "https://storage.buzzsprout.com/variants/kyelgrdx9uu3c7n51a31e1ucvgum/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90.jpg",
+        "tier": 1
+    },    
+    {
+        "name": "Brad & Will Made a Tech Pod.",
+        "url": "http://techpod.content.town/",
+        "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
         "tier": 2
     },
+    {
+        "name": "Virtual Coffee Podcast",
+        "url": "https://virtualcoffee.io/",
+        "logo": "https://overcast.fm/art/full/2615309?12",
+        "tier": 3
+    },   
     {
         "name": "The Kevin Rose Show",
         "url": "https://www.kevinrose.com/",
         "logo": "https://cdn.simplecast.com/images/5ee768af-4972-45d3-bb94-168aee0a964b/6dd6009f-7cb4-4f7a-a462-7e84260e979a/3000x3000/1509037992artwork.jpg",
-        "tier": 2
+        "tier": 3
+    },
+    {
+        "name": "99% Invisible",
+        "url": "https://99percentinvisible.org/",
+        "logo": "https://f.prxu.org/96/images/a2dfa88e-cbe9-4a41-b1a6-72694e60e7fd/99-1400.png",
+        "tier": 4
     },
     {
         "name": "Zen Founder",
         "url": "http://zenfounder.com/",
         "logo": "https://zenfounder.com/wp-content/uploads/powerpress/ZenFounder_Logo_2LineWhiteOnRed.png",
-        "tier": 3
+        "tier": 4
     },
     {
         "name": "The Joe Rogan Experience",
@@ -48,16 +78,10 @@
         "tier": 4
     },
     {
-        "name": "Brad & Will Made a Tech Pod.",
-        "url": "http://techpod.content.town/",
-        "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
-        "tier": 2
-    },
-    {
       "name": "The Yak Shave",
       "url": "http://yakshave.fm/",
       "logo": "https://media.simplecast.com/podcast/image/6759/1532554115-artwork.jpg",
-      "tier": 3
+      "tier": 4
     },
     {
         "name": "Common Sense with Dan Carlin",
@@ -89,11 +113,6 @@
         "name": "Now What? with Arian Foster",
         "url": "https://itunes.apple.com/us/podcast/now-what-with-arian-foster/id1291152192?mt=2",
         "tier": 4
-    },
-    {
-        "name": "The Bike Shed",
-        "url": "http://bikeshed.fm/",
-        "tier": 2
     },
     {
         "name": "Complete Developer Podcast",
