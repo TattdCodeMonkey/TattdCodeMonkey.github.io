@@ -6,7 +6,7 @@ layout: about
 {% include wrapimage.html url="/assets/img/rodney.norris_about.jpeg" %}
 
 Polyglot Software engineer 💻
-(javascript, typescript, node.js, golang, python, elixir)
+(typescript, javascript, node.js, golang, elixir, python)
 
 Father and Husband 👨‍👩‍👧‍👦👦🏻
 
@@ -15,8 +15,6 @@ Mountain Biker🚵🏻🏔
 Coffee Snob ☕
 
 Dharma practioner ☸️
-
-Co-host [NashDev Cast](http://nashdevcast.com)
 
 # Other Stuff
 
