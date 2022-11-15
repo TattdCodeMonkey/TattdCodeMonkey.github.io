@@ -22,3 +22,4 @@ Co-host [NashDev Cast](http://nashdevcast.com)
 
 - [Podcasts I listen to](/me/podcasts)
 - [GoodReads - Books I read](https://www.goodreads.com/user/show/23553598-rodney-norris)
+- <a rel="me" href="https://hachyderm.io/@rodneynorris">Mastodon</a>
