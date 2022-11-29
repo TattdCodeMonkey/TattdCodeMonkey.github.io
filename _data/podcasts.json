@@ -1,64 +1,86 @@
-[
-  {
-    "name": "EconTalk",
-    "url": "http://www.econtalk.org/",
-    "logo": "http://files.libertyfund.org/econtalk/EconTalkCDcover1400.jpg",
-    "tier": 2
-  },
-  {
-    "name": "Fatman Beyond",
-    "url": "https://www.smodcast.com/channel/fatmanbeyond",
-    "logo": "http://i1.sndcdn.com/avatars-000607513431-dg9ub7-original.jpg",
-    "tier": 1
-  },
-  {
-    "name": "The Bike Shed",
-    "url": "http://bikeshed.fm/",
-    "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg?v=2",
-    "tier": 1
-  },
-  {
-    "name": "WTF1 Podcast",
-    "url": "https://wtf1.com/",
-    "logo": "https://overcast.fm/art/full/811453?195",
-    "tier": 1
-  },
-  {
-    "name": "StaffEng Podcast",
-    "url": "https://podcast.staffeng.com/",
-    "logo": "https://storage.buzzsprout.com/variants/kyelgrdx9uu3c7n51a31e1ucvgum/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90.jpg",
-    "tier": 3
-  },
-  {
-    "name": "Brad & Will Made a Tech Pod.",
-    "url": "http://techpod.content.town/",
-    "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
-    "tier": 2
-  },
-  {
-    "name": "Common Sense with Dan Carlin",
-    "url": "http://www.dancarlin.com/common-sense-home-landing-page/)",
-    "tier": 3
-  },
-  {
-    "name": "NodeUp",
-    "url": "http://nodeup.com/",
-    "tier": 4
-  },
-  {
-    "name": "Dan Carlin's Hardcore History",
-    "url": "http://www.dancarlin.com/hardcore-history-series/",
-    "tier": 0
-  },
-  {
-    "name": ".Net Rocks! (GeekOuts Only)",
-    "url": "http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master&tags=Geek%20Out",
-    "tier": 0
-  },
-  {
-    "name": "Dolly Parton's America",
-    "url": "https://www.npr.org/podcasts/765024913/dolly-parton-s-america",
-    "logo": "https://media.wnyc.org/i/1400/1400/l/80/2019/09/DollyPartonsAmerica_FinalSquare.jpg",
-    "tier": 0
-  }
-]
+{
+  "tiers": [
+    {
+      "tier": 1,
+      "header": "Favorites, listen to every episode"
+    },
+    {
+      "tier": 2,
+      "header": "Listen to most episodes, but will skip occasionally"
+    },
+    {
+      "tier": 3,
+      "header": "Occasionally listen to an episode"
+    },
+    {
+      "tier": 0,
+      "header": "Favorite mini-series or non-regular release"
+    },
+    {
+      "tier": 4,
+      "header": "I used to listen to these podcasts, but skip almost all episodes now."
+    }
+  ],
+  "list": [
+    {
+      "name": "EconTalk",
+      "url": "http://www.econtalk.org/",
+      "logo": "http://files.libertyfund.org/econtalk/EconTalkCDcover1400.jpg",
+      "tier": 1
+    },
+    {
+      "name": "Deep Questions with Cal Newport",
+      "url": "https://www.calnewport.com/podcast/",
+      "logo": "https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkp0OVFJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ffc5238483ad3c46ca5dca669ed925466182dbb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/cal-newport-podcast-leader-2.11.22-KD-Final.jpg",
+      "tier": 1
+    },
+    {
+      "name": "Oxide and Friends",
+      "url": "https://oxide.computer/podcasts/oxide-and-friends",
+      "logo": "https://images.transistor.fm/file/transistor/images/show/29256/full_1648490100-artwork.jpg",
+      "tier": 1
+    },
+    {
+      "name": "Fatman Beyond",
+      "url": "https://www.smodcast.com/channel/fatmanbeyond",
+      "logo": "http://i1.sndcdn.com/avatars-000607513431-dg9ub7-original.jpg",
+      "tier": 2
+    },
+    {
+      "name": "The Bike Shed",
+      "url": "http://bikeshed.fm/",
+      "logo": "https://assets.fireside.fm/file/fireside-images/podcasts/images/1/167c01a1-0eb9-4640-b488-c2f6d6866650/cover_small.jpg?v=2",
+      "tier": 4
+    },
+    {
+      "name": "WTF1 Podcast",
+      "url": "https://wtf1.com/",
+      "logo": "https://overcast.fm/art/full/811453?195",
+      "tier": 3
+    },
+    {
+      "name": "StaffEng Podcast",
+      "url": "https://podcast.staffeng.com/",
+      "logo": "https://storage.buzzsprout.com/variants/kyelgrdx9uu3c7n51a31e1ucvgum/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90.jpg",
+      "tier": 4
+    },
+    {
+      "name": "Brad & Will Made a Tech Pod.",
+      "url": "http://techpod.content.town/",
+      "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
+      "tier": 2
+    },
+    {
+      "name": "Dan Carlin's Hardcore History",
+      "url": "http://www.dancarlin.com/hardcore-history-series/",
+      "logo": "https://public.overcast-cdn.com/art/446477?v1",
+      "tier": 0
+    },
+    {
+      "name": "Dolly Parton's America",
+      "url": "https://www.npr.org/podcasts/765024913/dolly-parton-s-america",
+      "logo": "https://media.wnyc.org/i/1400/1400/l/80/2019/09/DollyPartonsAmerica_FinalSquare.jpg",
+      "tier": 0
+    }
+  ]
+}
