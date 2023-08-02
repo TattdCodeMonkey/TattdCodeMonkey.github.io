@@ -53,12 +53,6 @@
       "tier": 4
     },
     {
-      "name": "WTF1 Podcast",
-      "url": "https://wtf1.com/",
-      "logo": "https://overcast.fm/art/full/811453?195",
-      "tier": 3
-    },
-    {
       "name": "StaffEng Podcast",
       "url": "https://podcast.staffeng.com/",
       "logo": "https://storage.buzzsprout.com/variants/kyelgrdx9uu3c7n51a31e1ucvgum/74cb75bab2243992e98fab5156007185827084cf97936f24c0c66a651388df90.jpg",
@@ -68,7 +62,7 @@
       "name": "Brad & Will Made a Tech Pod.",
       "url": "http://techpod.content.town/",
       "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
-      "tier": 2
+      "tier": 4
     },
     {
       "name": "Dan Carlin's Hardcore History",

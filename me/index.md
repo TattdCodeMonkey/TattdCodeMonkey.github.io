@@ -18,6 +18,6 @@ Dharma practioner ☸️
 
 # Other Stuff
 
-- [Podcasts I listen to](/me/podcasts)
-- [GoodReads - Books I read](https://www.goodreads.com/user/show/23553598-rodney-norris)
+- [Books](https://app.thestorygraph.com/profile/tattdcodemonkey)
+- [Podcasts](/me/podcasts)
 - <a rel="me" href="https://hachyderm.io/@rodneynorris">Mastodon</a>
