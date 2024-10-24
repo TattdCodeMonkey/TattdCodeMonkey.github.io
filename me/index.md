@@ -21,3 +21,4 @@ Dharma practioner ☸️
 - [Books](https://app.thestorygraph.com/profile/tattdcodemonkey)
 - [Podcasts](/me/podcasts)
 - <a rel="me" href="https://hachyderm.io/@rodneynorris">Mastodon</a>
+- [Bluesky](https://bsky.app/profile/tattdcodemonkey.com)
