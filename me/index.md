@@ -3,22 +3,10 @@ title: About Me - Rodney Norris
 layout: about
 ---
 
-{% include wrapimage.html url="/assets/img/rodney.norris_about.jpeg" %}
-
-Polyglot Software engineer 💻
-(typescript, javascript, node.js, golang, elixir, python)
-
-Father and Husband 👨‍👩‍👧‍👦👦🏻
-
-Mountain Biker🚵🏻🏔
-
-Coffee Snob ☕
-
-Dharma practioner ☸️
+<bsky-widget data-handle="tattdcodemonkey.com">
+</bsky-widget>
 
 # Other Stuff
 
 - [Books](https://app.thestorygraph.com/profile/tattdcodemonkey)
 - [Podcasts](/me/podcasts)
-- <a rel="me" href="https://hachyderm.io/@rodneynorris">Mastodon</a>
-- [Bluesky](https://bsky.app/profile/tattdcodemonkey.com)

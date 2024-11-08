@@ -29,16 +29,16 @@
       "tier": 1
     },
     {
-      "name": "Deep Questions with Cal Newport",
-      "url": "https://www.calnewport.com/podcast/",
-      "logo": "https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkp0OVFJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ffc5238483ad3c46ca5dca669ed925466182dbb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/cal-newport-podcast-leader-2.11.22-KD-Final.jpg",
-      "tier": 1
+      "name": "Syntax.",
+      "url": "https://syntax.fm/",
+      "logo": "https://i0.wp.com/www.lemonproductions.ca/wp-content/uploads/2021/11/Syntax-podcast.jpg",
+      "tier": 2
     },
     {
       "name": "Oxide and Friends",
       "url": "https://oxide.computer/podcasts/oxide-and-friends",
       "logo": "https://images.transistor.fm/file/transistor/images/show/29256/full_1648490100-artwork.jpg",
-      "tier": 1
+      "tier": 2
     },
     {
       "name": "Fatman Beyond",
@@ -62,6 +62,12 @@
       "name": "Brad & Will Made a Tech Pod.",
       "url": "http://techpod.content.town/",
       "logo": "https://cdn.simplecast.com/images/a7fe8729-1e69-4205-9126-785c7a060604/45f8eaab-7e64-4415-a46a-beb29c2886e4/3000x3000/techpod.jpg",
+      "tier": 4
+    },
+    {
+      "name": "Deep Questions with Cal Newport",
+      "url": "https://www.calnewport.com/podcast/",
+      "logo": "https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSkp0OVFJPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ffc5238483ad3c46ca5dca669ed925466182dbb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2QzNKbGMybDZaVWtpRFRZd01IZzJNREJlQmpzR1ZEb01aM0poZG1sMGVVa2lDMk5sYm5SbGNnWTdCbFE2QzJWNGRHVnVkRWtpRERZd01IZzJNREFHT3daVU9neHhkV0ZzYVhSNWFWVTZEMk52Ykc5eWMzQmhZMlZKSWdselVrZENCanNHVkE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--8a9b4b1bc245a46b538f72d4d9b2ab0a7fbe8ac1/cal-newport-podcast-leader-2.11.22-KD-Final.jpg",
       "tier": 4
     },
     {
